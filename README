@@ -1,0 +1,5 @@
+This is a simple NSString class for shrinking URLs. The way of using it is:
+You have to import "PMURLShrinker.h". Then do this:
+NSString *shorturl = [PMURLShrinker shrinkURL:@"your url here"];
+And then the NSString "shorturl" contains the shrinked URL. Easy huh? :)
+
