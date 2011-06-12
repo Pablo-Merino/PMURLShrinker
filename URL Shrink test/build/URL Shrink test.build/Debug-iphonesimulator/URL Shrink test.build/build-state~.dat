@@ -1,0 +1,287 @@
+TURL Shrink test
+v7
+r0
+t329580552.834627
+cCheck dependencies
+cProcessInfoPlistFile "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/Info.plist" URL_Shrink_test-Info.plist
+cCompileXIB "/Users/pablo/Documents/URL Shrink test/MainWindow.xib"
+cCompileXIB "/Users/pablo/Documents/URL Shrink test/URL_Shrink_testViewController.xib"
+cProcessPCH /var/folders/w5/w5H9kJEKHdW1UjGArNgE+U+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/URL_Shrink_test_Prefix-dshwckzwafgsifaqysajetzziwhd/URL_Shrink_test_Prefix.pch.gch URL_Shrink_test_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/main.o" "/Users/pablo/Documents/URL Shrink test/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/URL_Shrink_testAppDelegate.o" "/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/URL_Shrink_testViewController.o" "/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/PMURLShrinker-7709FBAC502CE09B.o" "/Users/pablo/Documents/URL Shrink test/Classes/PMURLShrinker.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/URL Shrink test" normal i386
+cGenerateDSYMFile "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app.dSYM" "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/URL Shrink test"
+cTouch "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/pablo/Documents/URL Shrink test/Classes/PMURLShrinker.h
+c000000004DF4C7660000000000000107
+t1307887462
+s263
+i<Foundation/Foundation.h>
+
+N/Users/pablo/Documents/URL Shrink test/Classes/PMURLShrinker.m
+c000000004DF4C75B00000000000001E4
+t1307887451
+s484
+i"PMURLShrinker.h"
+
+N/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testAppDelegate.h
+c000000004DF4C7BF0000000000000210
+t1307887551
+s528
+i<UIKit/UIKit.h>
+
+N/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testAppDelegate.m
+c000000004DF4C7BF0000000000000ABE
+t1307887551
+s2750
+i"URL_Shrink_testAppDelegate.h"
+i"URL_Shrink_testViewController.h"
+
+N/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testViewController.h
+c000000004DF4C879000000000000015C
+t1307887737
+s348
+i<UIKit/UIKit.h>
+
+N/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testViewController.m
+c000000004DF4C8630000000000000650
+t1307887715
+s1616
+i"URL_Shrink_testViewController.h"
+i"PMURLShrinker.h"
+
+N/Users/pablo/Documents/URL Shrink test/MainWindow.xib
+c000000004DF4C7BF0000000000004E89
+t1307887551
+s20105
+
+N/Users/pablo/Documents/URL Shrink test/URL_Shrink_testViewController.xib
+c000000004DF4C8810000000000007081
+t1307887745
+s28801
+
+N/Users/pablo/Documents/URL Shrink test/URL_Shrink_test_Prefix.pch
+c000000004DF4C7BF00000000000000C7
+t1307887551
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app
+t1307887752
+s238
+
+N/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app.dSYM
+t1307887752
+s102
+
+N/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/Info.plist
+t1307887751
+s629
+
+N/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/MainWindow.nib
+t1307887752
+s1139
+
+N/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/PkgInfo
+t1307887751
+s8
+
+N/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/URL Shrink test
+t1307887752
+s18704
+
+N/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/URL_Shrink_testViewController.nib
+t1307887752
+s2452
+
+N/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/PMURLShrinker-7709FBAC502CE09B.o
+t1307887752
+s8280
+
+N/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/URL Shrink test.LinkFileList
+c000000004DF4C8870000000000000271
+t1307887751
+s625
+
+N/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/URL_Shrink_testAppDelegate.o
+t1307887752
+s51424
+
+N/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/URL_Shrink_testViewController.o
+t1307887752
+s39572
+
+N/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/main.o
+t1307887752
+s6304
+
+N/Users/pablo/Documents/URL Shrink test/main.m
+c000000004DF4C7BF0000000000000172
+t1307887551
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/w5/w5H9kJEKHdW1UjGArNgE+U+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/URL_Shrink_test_Prefix-dshwckzwafgsifaqysajetzziwhd/URL_Shrink_test_Prefix.pch.gch
+t1307887752
+s15453392
+
+NURL_Shrink_test-Info.plist
+c000000004DF4C7BF000000000000038D
+t1307887551
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329580551#329580551#0(128"[WARN]warning: no rule to process file '$(PROJECT_DIR)/Classes/PMURLShrinker.h' of type sourcecode.objj.h for architecture i3861(22@121"warning: no rule to process file '$(PROJECT_DIR)/Classes/PMURLShrinker.h' of type sourcecode.objj.h for architecture i386329580551#18446744073709551615#0#0(1@0"0(0#1#0"8612518528#0"0#
+
+CCompileC "build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/PMURLShrinker-7709FBAC502CE09B.o" "/Users/pablo/Documents/URL Shrink test/Classes/PMURLShrinker.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329580552.749845
+e329580552.792054
+r1
+xCompileC
+xbuild/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/PMURLShrinker-7709FBAC502CE09B.o
+x/Users/pablo/Documents/URL Shrink test/Classes/PMURLShrinker.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/pablo/Documents/URL Shrink test/Classes/PMURLShrinker.m329580552#329580552#0(0"0(0#0#62"/Users/pablo/Documents/URL Shrink test/Classes/PMURLShrinker.m8615905248#2139"    cd "/Users/pablo/Documents/URL Shrink test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-generated-files.hmap" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-own-target-headers.hmap" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-all-target-headers.hmap" -iquote "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-project-headers.hmap" "-F/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator" "-I/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/include" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/DerivedSources/i386" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/DerivedSources" -include /var/folders/w5/w5H9kJEKHdW1UjGArNgE+U+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/URL_Shrink_test_Prefix-dshwckzwafgsifaqysajetzziwhd/URL_Shrink_test_Prefix.pch -c "/Users/pablo/Documents/URL Shrink test/Classes/PMURLShrinker.m" -o "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/PMURLShrinker-7709FBAC502CE09B.o"0#
+
+CCompileC "build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/URL_Shrink_testAppDelegate.o" "/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329580552.748461
+e329580552.803291
+r1
+xCompileC
+xbuild/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/URL_Shrink_testAppDelegate.o
+x/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testAppDelegate.m329580552#329580552#0(0"0(0#0#75"/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testAppDelegate.m8613183360#2148"    cd "/Users/pablo/Documents/URL Shrink test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-generated-files.hmap" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-own-target-headers.hmap" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-all-target-headers.hmap" -iquote "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-project-headers.hmap" "-F/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator" "-I/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/include" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/DerivedSources/i386" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/DerivedSources" -include /var/folders/w5/w5H9kJEKHdW1UjGArNgE+U+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/URL_Shrink_test_Prefix-dshwckzwafgsifaqysajetzziwhd/URL_Shrink_test_Prefix.pch -c "/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testAppDelegate.m" -o "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/URL_Shrink_testAppDelegate.o"0#
+
+CCompileC "build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/URL_Shrink_testViewController.o" "/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329580552.749151
+e329580552.796369
+r1
+xCompileC
+xbuild/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/URL_Shrink_testViewController.o
+x/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testViewController.m329580552#329580552#0(0"0(0#0#78"/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testViewController.m8613140704#2154"    cd "/Users/pablo/Documents/URL Shrink test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-generated-files.hmap" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-own-target-headers.hmap" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-all-target-headers.hmap" -iquote "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-project-headers.hmap" "-F/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator" "-I/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/include" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/DerivedSources/i386" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/DerivedSources" -include /var/folders/w5/w5H9kJEKHdW1UjGArNgE+U+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/URL_Shrink_test_Prefix-dshwckzwafgsifaqysajetzziwhd/URL_Shrink_test_Prefix.pch -c "/Users/pablo/Documents/URL Shrink test/Classes/URL_Shrink_testViewController.m" -o "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/URL_Shrink_testViewController.o"0#
+
+CCompileC "build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/main.o" "/Users/pablo/Documents/URL Shrink test/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329580552.747679
+e329580552.791811
+r1
+xCompileC
+xbuild/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/main.o
+x/Users/pablo/Documents/URL Shrink test/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/pablo/Documents/URL Shrink test/main.m329580552#329580552#0(0"0(0#0#45"/Users/pablo/Documents/URL Shrink test/main.m8614109152#2096"    cd "/Users/pablo/Documents/URL Shrink test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-generated-files.hmap" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-own-target-headers.hmap" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-all-target-headers.hmap" -iquote "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-project-headers.hmap" "-F/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator" "-I/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/include" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/DerivedSources/i386" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/DerivedSources" -include /var/folders/w5/w5H9kJEKHdW1UjGArNgE+U+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/URL_Shrink_test_Prefix-dshwckzwafgsifaqysajetzziwhd/URL_Shrink_test_Prefix.pch -c "/Users/pablo/Documents/URL Shrink test/main.m" -o "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/pablo/Documents/URL Shrink test/MainWindow.xib"
+s329580551.950892
+e329580552.266010
+r1
+xCompileXIB
+x/Users/pablo/Documents/URL Shrink test/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib329580551#329580552#0(0"0(0#0#53"/Users/pablo/Documents/URL Shrink test/MainWindow.xib8607994400#584"    cd "/Users/pablo/Documents/URL Shrink test"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/MainWindow.nib" "/Users/pablo/Documents/URL Shrink test/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/pablo/Documents/URL Shrink test/URL_Shrink_testViewController.xib"
+s329580551.951655
+e329580552.319994
+r1
+xCompileXIB
+x/Users/pablo/Documents/URL Shrink test/URL_Shrink_testViewController.xib
+lSLF07#2@44"CompileXIB URL_Shrink_testViewController.xib329580551#329580552#0(0"0(0#0#72"/Users/pablo/Documents/URL Shrink test/URL_Shrink_testViewController.xib8614313248#622"    cd "/Users/pablo/Documents/URL Shrink test"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/URL_Shrink_testViewController.nib" "/Users/pablo/Documents/URL Shrink test/URL_Shrink_testViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app.dSYM" "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/URL Shrink test"
+s329580552.821158
+e329580552.832564
+r1
+xGenerateDSYMFile
+x/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app.dSYM
+x/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/URL Shrink test
+lSLF07#2@137"GenerateDSYMFile "build/Debug-iphonesimulator/URL Shrink test.app.dSYM" "build/Debug-iphonesimulator/URL Shrink test.app/URL Shrink test"329580552#329580552#0(0"0(0#0#102"/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/URL Shrink test8615638816#413"    cd "/Users/pablo/Documents/URL Shrink test"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/URL Shrink test" -o "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app.dSYM"0#
+
+CLd "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/URL Shrink test" normal i386
+s329580552.803354
+e329580552.821085
+r1
+xLd
+x/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/URL Shrink test
+xnormal
+xi386
+lSLF07#2@107"Link /Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/URL Shrink test329580552#329580552#0(0"0(0#0#0"8615197216#950"    cd "/Users/pablo/Documents/URL Shrink test"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator" "-F/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator" -filelist "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/Objects-normal/i386/URL Shrink test.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/URL Shrink test"0#
+
+CProcessInfoPlistFile "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/Info.plist" URL_Shrink_test-Info.plist
+s329580551.942432
+e329580551.950795
+r1
+xProcessInfoPlistFile
+x/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/Info.plist
+xURL_Shrink_test-Info.plist
+lSLF07#2@34"Process URL_Shrink_test-Info.plist329580551#329580551#0(0"0(0#0#65"/Users/pablo/Documents/URL Shrink test/URL_Shrink_test-Info.plist8031151153962903552#509"    cd "/Users/pablo/Documents/URL Shrink test"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility URL_Shrink_test-Info.plist -genpkginfo "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app/Info.plist"0#
+
+CProcessPCH /var/folders/w5/w5H9kJEKHdW1UjGArNgE+U+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/URL_Shrink_test_Prefix-dshwckzwafgsifaqysajetzziwhd/URL_Shrink_test_Prefix.pch.gch URL_Shrink_test_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s329580552.320084
+e329580552.747598
+r1
+xProcessPCH
+x/var/folders/w5/w5H9kJEKHdW1UjGArNgE+U+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/URL_Shrink_test_Prefix-dshwckzwafgsifaqysajetzziwhd/URL_Shrink_test_Prefix.pch.gch
+xURL_Shrink_test_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile URL_Shrink_test_Prefix.pch329580552#329580552#0(0"0(0#0#65"/Users/pablo/Documents/URL Shrink test/URL_Shrink_test_Prefix.pch8614253408#1978"    cd "/Users/pablo/Documents/URL Shrink test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-generated-files.hmap" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-own-target-headers.hmap" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-all-target-headers.hmap" -iquote "/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/URL Shrink test-project-headers.hmap" "-F/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator" "-I/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/include" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/DerivedSources/i386" "-I/Users/pablo/Documents/URL Shrink test/build/URL Shrink test.build/Debug-iphonesimulator/URL Shrink test.build/DerivedSources" -c "/Users/pablo/Documents/URL Shrink test/URL_Shrink_test_Prefix.pch" -o /var/folders/w5/w5H9kJEKHdW1UjGArNgE+U+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/URL_Shrink_test_Prefix-dshwckzwafgsifaqysajetzziwhd/URL_Shrink_test_Prefix.pch.gch0#
+
+CTouch "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app"
+s329580552.832626
+e329580552.834603
+r1
+xTouch
+x/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app
+lSLF07#2@92"Touch /Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app329580552#329580552#0(0"0(0#0#0"8615351168#290"    cd "/Users/pablo/Documents/URL Shrink test"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/pablo/Documents/URL Shrink test/build/Debug-iphonesimulator/URL Shrink test.app"0#
+
