@@ -13,5 +13,7 @@
 	IBOutlet UILabel *shrinked;
 }
 -(IBAction)shrink:(id)sender;
+-(IBAction)shrinkclip:(id)sender;
+
 @end
 

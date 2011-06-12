@@ -12,5 +12,7 @@
 @interface PMURLShrinker : NSString
 
 +(NSString*)shrinkURL:(NSString *)url;
++(NSString*)shrinkURLWithClipboardPaste:(NSString *)url;
+
 
 @end

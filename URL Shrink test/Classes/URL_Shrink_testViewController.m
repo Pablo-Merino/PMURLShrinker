@@ -32,6 +32,11 @@
 	shrinked.text = [PMURLShrinker shrinkURL:URL.text];
 	[URL resignFirstResponder];
 }
+-(IBAction)shrinkclip:(id)sender {
+	shrinked.text = [PMURLShrinker shrinkURLWithClipboardPaste:URL.text];
+	[URL resignFirstResponder];
+}
+
 
 /*
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
